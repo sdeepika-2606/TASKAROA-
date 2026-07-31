@@ -253,8 +253,6 @@ GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 
 ### Deepika S
 
-Cybersecurity Student • AI Enthusiast • Full Stack Developer
-
-⭐ If you like this project, consider giving it a star!
+Cybersecurity Student • AI Enthusiast
 
 </div>
