@@ -1,0 +1,6 @@
+{
+  "name": "Taskaroa",
+  "description": "AI-powered productivity companion for smart planning, task prioritization, and deadline management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
