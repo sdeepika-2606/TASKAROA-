@@ -1,16 +1,12 @@
+<div align="center">
+
 # 🚀 Taskaroa
 
-> AI-Powered Productivity Workspace for Smarter Planning, Focused Learning, and Intelligent Task Management.
+### AI-Powered Productivity Workspace for Smarter Planning, Focused Learning, and Intelligent Task Management.
 
+Taskaroa is an AI-powered productivity platform designed to help students, professionals, and lifelong learners manage tasks, organize notes, plan schedules, stay focused, and boost productivity through an intelligent and modern workspace.
 
-
-## 📖 Overview
-
-Taskaroa is a modern AI-powered productivity platform designed to help students, professionals, and teams organize their work efficiently.
-
-It combines intelligent task management, AI-powered notes, focus mode, scheduling, calendar management, study tools, and an AI assistant into one seamless workspace.
-
-Built with a clean and responsive interface, Taskaroa helps users plan smarter, stay focused, and achieve better productivity.
+</div>
 
 ---
 
@@ -18,99 +14,108 @@ Built with a clean and responsive interface, Taskaroa helps users plan smarter, 
 
 ## 📋 Smart Task Management
 
-- Create, edit and delete tasks
+- Create, edit, and organize tasks
 - Priority levels
-- Categories
-- Due dates & reminders
+- Categories & Tags
+- Due dates & Deadlines
 - Progress tracking
-- Productivity analytics
+- Productivity insights
+- Task reminders
+- Smart dashboard overview
 
 ---
 
 ## 📝 AI Smart Notes
 
+A complete note-taking workspace with powerful AI assistance.
+
+### Note Features
+
 - Rich Text Editor
-- Voice Notes
-- File Attachments
-- Tables
+- Bullet Lists
+- Numbered Lists
 - Checklists
 - Code Blocks
-- Tags & Categories
-- Auto Save
+- Tables
+- Hyperlinks
+- Images
+- Voice Notes
+- File Attachments
+- Color Labels
+- Categories
+- Tags
+- Favorite Notes
+- Pin Notes
+- Archive Notes
 - Folder Management
-
-### AI Features
-
-- AI Summary
-- Revision Notes
-- Mind Maps
-- Flashcards
-- Quiz Generator
-- Explain My Notes
-- AI Review
-- Grammar Improvement
-- Translation
-- Keyword Extraction
+- Auto Save
+- Word Count
+- Character Count
 - Reading Time
-- Productivity Score
+
+
 
 ---
 
 ## 🎯 Focus Mode
 
 - Custom Focus Timer
-- Countdown Timer
-- Ambient Music Player
-- Lo-Fi Music
-- White Noise
-- Piano Music
-- Deep Focus Sounds
-- Session Tracking
+- Adjustable Timer (1–120 Minutes)
+- Live Countdown
+- Focus Session Tracking
+- Session History
+- Productivity Analytics
 
 ---
 
 ## 📅 Smart Calendar
 
-- Monthly View
-- Weekly View
-- Daily View
-- Schedule Planner
-- Upcoming Events
-- Reminder Management
+- Daily Planner
+- Weekly Planner
+- Monthly Calendar
+- Schedule Management
+- Event Tracking
+- Reminder Support
 
 ---
 
 ## 🤖 AI Assistant
 
-Taskaroa includes an AI Assistant capable of helping users with:
+The integrated AI Assistant can help users with:
 
-- General Questions
 - Programming
 - Cybersecurity
-- Study Assistance
+- Artificial Intelligence
+- Machine Learning
 - Mathematics
 - Science
-- Productivity
-- Writing
-- Brainstorming
-- Career Guidance
+- General Knowledge
+- Study Assistance
 - Research
-- Daily Learning
+- Writing
+- Email Drafting
+- Resume Improvement
+- Interview Preparation
+- Brainstorming
+- Productivity Guidance
+- Translation
+- Grammar Correction
+- Career Guidance
 
 ---
 
-## 📊 Dashboard
+## 📊 Productivity Dashboard
 
 - Productivity Overview
-- Focus Statistics
 - Recent Tasks
 - Upcoming Schedule
 - Daily Motivation
-- AI Insights
+- Activity Tracking
+- Performance Insights
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 ### Frontend
 
@@ -122,9 +127,9 @@ Taskaroa includes an AI Assistant capable of helping users with:
 ### Backend
 
 - Node.js
-- Express
+- Express.js
 
-### AI
+### AI Integration
 
 - Google Gemini API
 
@@ -135,16 +140,33 @@ Taskaroa includes an AI Assistant capable of helping users with:
 
 ---
 
+# 🤖 AI Development Workflow
+
+Taskaroa was developed using an AI-assisted workflow with iterative planning, implementation, debugging, UI refinement, and continuous improvement.
+
+The development process included:
+
+- AI-assisted feature planning
+- Component generation
+- UI/UX refinement
+- Backend integration
+- AI feature implementation
+- Code refactoring
+- Bug fixing
+- Continuous testing and improvements
+
+---
+
 # 📂 Project Structure
 
-```
-Taskaroa
+```text
+Taskaroa/
 │
 ├── src/
-├── public/
-├── assets/
 ├── components/
 ├── pages/
+├── public/
+├── assets/
 ├── server.ts
 ├── package.json
 ├── vite.config.ts
@@ -161,7 +183,7 @@ Clone the repository
 git clone https://github.com/sdeepika-2606/Taskaroa.git
 ```
 
-Open project
+Go into the project
 
 ```bash
 cd Taskaroa
@@ -173,13 +195,13 @@ Install dependencies
 npm install
 ```
 
-Start Development Server
+Run the development server
 
 ```bash
 npm run dev
 ```
 
-Build Project
+Build the project
 
 ```bash
 npm run build
@@ -192,69 +214,47 @@ npm run build
 Create a `.env` file.
 
 ```env
-GEMINI_API_KEY=YOUR_API_KEY
+GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 ```
 
 ---
 
 # 📱 Responsive Design
 
-✅ Desktop
-
-✅ Tablet
-
-✅ Mobile
+- 💻 Desktop
+- 📱 Mobile
+- 📟 Tablet
 
 ---
 
-# 🎯 Hackathon Track
+# 🏆 Hackathon
 
 **ChatGPT Codex India Hackathon 2026**
 
-Track:
-
-> UX for Agentic Applications
+**Track:** UX for Agentic Applications
 
 ---
 
-# 🤖 AI Development
-
-Taskaroa was developed using an AI-assisted workflow with iterative prompting, planning, UI refinement, debugging, and feature implementation.
-
-The development process included:
-
-- Feature Planning
-- UI Refinement
-- Component Generation
-- Bug Fixing
-- Code Refactoring
-- AI-assisted Development
-- Continuous Iteration
-
----
-
-# 📈 Future Enhancements
+# 🚀 Future Roadmap
 
 - Team Collaboration
-- Cloud Sync
-- Offline Mode
-- Mobile App
-- AI Workflow Automation
-- Voice Commands
+- Cross-Device Sync
+- Offline Support
+- Mobile Application
+- Advanced AI Workflows
 - Smart Notifications
+- Voice Commands
 
 ---
 
-# 👩‍💻 Developer
+<div align="center">
 
-**Deepika S**
+## 👩‍💻 Developed By
 
-Cybersecurity Student
+### Deepika S
 
-
-
----
-
-
+Cybersecurity Student • AI Enthusiast • Full Stack Developer
 
 ⭐ If you like this project, consider giving it a star!
+
+</div>
