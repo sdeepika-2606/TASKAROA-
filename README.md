@@ -177,6 +177,11 @@ Taskaroa/
 
 # 🚀 Installation
 
+## 🚀 Live Demo
+
+⚙️ **Backend API (Render):**
+https://taskaroa-1.onrender.com
+
 Clone the repository
 
 ```bash
